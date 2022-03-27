@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a039191b-28af-4a3a-8a11-71a6444a0431" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/level_2/구명보트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_2/큰 수 만들기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
       <updated>1648140877851</updated>
       <workItem from="1648140879025" duration="5000" />
       <workItem from="1648283836957" duration="35000" />
+      <workItem from="1648364486006" duration="18000" />
     </task>
     <servers />
   </component>
