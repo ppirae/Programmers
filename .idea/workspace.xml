@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a039191b-28af-4a3a-8a11-71a6444a0431" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/level_2/큰 수 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_2/H-index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_2/더 맵게.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26qAjSQ0j7S77lsDlzqKGc7UrAH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,6 +40,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/파이썬 알고리즘 문제풀이" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,6 +56,8 @@
       <workItem from="1648140879025" duration="5000" />
       <workItem from="1648283836957" duration="35000" />
       <workItem from="1648364486006" duration="18000" />
+      <workItem from="1648531453220" duration="17000" />
+      <workItem from="1648544113479" duration="642000" />
     </task>
     <servers />
   </component>
