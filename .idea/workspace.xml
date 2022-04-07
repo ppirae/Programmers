@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a039191b-28af-4a3a-8a11-71a6444a0431" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/level_1/모의고사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level_2/행렬의 곱셈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_2/프린터.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,35 +38,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BOJ" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/파이썬 알고리즘 문제풀이" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
-      <module name="Programmers" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\JoHyeongRae\AppData\Local\Programs\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,13 +58,6 @@
       <workItem from="1648531453220" duration="17000" />
       <workItem from="1648544113479" duration="642000" />
       <workItem from="1648627863507" duration="25000" />
-      <workItem from="1648743438567" duration="91000" />
-      <workItem from="1648743531277" duration="57000" />
-      <workItem from="1648743605571" duration="7000" />
-      <workItem from="1648832062953" duration="637000" />
-      <workItem from="1649154455342" duration="1823000" />
-      <workItem from="1649158784799" duration="7000" />
-      <workItem from="1649337650099" duration="6000" />
     </task>
     <servers />
   </component>
@@ -107,8 +74,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Programmers$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1648743488731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
