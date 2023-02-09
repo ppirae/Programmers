@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a039191b-28af-4a3a-8a11-71a6444a0431" name="Changes" comment="Programmers">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL/DATETIME에서 DATE로 형 변환.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL/가격이 제일 비싼 식품의 정보 출력하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL/중성화 여부 파악하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_11_06_6_09_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_11_06_6_09_PM__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/12세 이하인 여자 환자 목록 출력하기 .sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/가장 비싼 상품 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/조건에 맞는 회원수 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/흉부외과 또는 일반외과 의사 목록 출력하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_2/고양이와 개는 몇마리 있을까.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL/고양이와 개는 몇마리 있을까.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_2/동명 동물 수 찾기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL/동명 동물 수 찾기.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_2/루시와 엘라 찾기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL/루시와 엘라 찾기.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/level_2/이름에 el 들어가는 동물 찾기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL/이름에 el 들어가는 동물 찾기.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,17 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ppirae/PycharmProjects/Programmers/MySQL",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ppirae/PycharmProjects/Programmers/MySQL&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MySQL" />
@@ -123,7 +116,8 @@
       <workItem from="1668603674862" duration="41000" />
       <workItem from="1668692924402" duration="25000" />
       <workItem from="1675334647591" duration="707000" />
-      <workItem from="1675681367948" duration="161000" />
+      <workItem from="1675681367948" duration="407000" />
+      <workItem from="1675943584064" duration="133000" />
     </task>
     <task id="LOCAL-00001" summary="Programmers">
       <created>1666619022670</created>
