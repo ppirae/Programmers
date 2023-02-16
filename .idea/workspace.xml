@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a039191b-28af-4a3a-8a11-71a6444a0431" name="Changes" comment="Programmers">
-      <change afterPath="$PROJECT_DIR$/MySQL/12세 이하인 여자 환자 목록 출력하기 .sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL/가장 비싼 상품 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL/조건에 맞는 회원수 구하기.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL/흉부외과 또는 일반외과 의사 목록 출력하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/오랜 기간 보호한 동물(1).sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +114,8 @@
       <workItem from="1668692924402" duration="25000" />
       <workItem from="1675334647591" duration="707000" />
       <workItem from="1675681367948" duration="407000" />
-      <workItem from="1675943584064" duration="133000" />
+      <workItem from="1675943584064" duration="169000" />
+      <workItem from="1676551114953" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="Programmers">
       <created>1666619022670</created>
