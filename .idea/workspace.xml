@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a039191b-28af-4a3a-8a11-71a6444a0431" name="Changes" comment="Programmers">
-      <change afterPath="$PROJECT_DIR$/MySQL/오랜 기간 보호한 동물(1).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_0/a와 b 출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_0/대소문자 바꿔서 출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_0/덧셈식 출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_0/문자열 반복해서 출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_0/문자열 출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_0/특수문자 출력하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,17 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ppirae/PycharmProjects/Programmers/MySQL&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ppirae/PycharmProjects/Programmers/MySQL",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MySQL" />
@@ -116,6 +123,7 @@
       <workItem from="1675681367948" duration="407000" />
       <workItem from="1675943584064" duration="169000" />
       <workItem from="1676551114953" duration="47000" />
+      <workItem from="1689817271644" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="Programmers">
       <created>1666619022670</created>
@@ -193,9 +201,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Programmers" />
     <option name="LAST_COMMIT_MESSAGE" value="Programmers" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Programmers$ttest.coverage" NAME="ttest Coverage Results" MODIFIED="1666673868286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Programmers$IDLE_app.coverage" NAME="IDLE.app Coverage Results" MODIFIED="1666618338398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Applications/Python 3.10" />
   </component>
 </project>
